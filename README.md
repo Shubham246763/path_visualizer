@@ -1,6 +1,3 @@
-Here's a README section for your GitHub repository:
-
----
 
 # Pathfinding Visualization
 
